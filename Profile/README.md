@@ -1,6 +1,6 @@
 # TrustySite
 
-![TrustySite Logo](./assets/TrustySiteBanner.png)
+![TrustySite Logo](https://github.com/TrustySite/.github/blob/main/assets/TrustySiteBanner.png)
 
 **Welcome to TrustySite!**
 
